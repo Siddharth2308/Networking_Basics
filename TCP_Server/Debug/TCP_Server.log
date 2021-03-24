@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\programs\c++\tcp_server\tcp_server\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TCP_Server.vcxproj -> G:\programs\C++\TCP_Server\Debug\TCP_Server.exe
