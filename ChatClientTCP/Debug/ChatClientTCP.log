@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\programs\c++\chatclienttcp\chatclienttcp\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\programs\c++\chatclienttcp\chatclienttcp\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  ChatClientTCP.vcxproj -> G:\programs\C++\ChatClientTCP\Debug\ChatClientTCP.exe
